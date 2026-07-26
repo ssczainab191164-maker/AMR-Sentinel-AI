@@ -29,8 +29,6 @@ Experience the live interactive platform in your browser:
 
 🌐 Launch AMR Sentinel AI on Vercel https://amr-sentinel-ai-74po.vercel.app/
 
-⚡ AI Studio Preview Deployment https://ais-pre-26zwkqzoq2f62robhr4wj5-481517862563.asia-southeast1.run.app
-
 ## 🔬 4. Key Features
 Feature	Description	Educational Value
 🤖 AI Resistance Analyzer	Powered by Gemini 3.6 Flash, processes user queries regarding gene cassettes, enzyme kinetics, and AST panel interpretations with structured scientific outputs.	Teaches students how to interpret molecular resistance profiles and mechanistically connect genotypes to phenotypes.
@@ -141,11 +139,52 @@ The application features 7 distinct interactive tabs and 2 modal interfaces tail
 ## FEEDBACK
 <img width="1015" height="865" alt="Screenshot 2026-07-26 194520" src="https://github.com/user-attachments/assets/7cc1ab57-0e47-4ce7-804c-132c33c4c5ac" />
 
-## 🎓 09. Project Impact
+## 💻 09. Installation & Running Locally
+
+Follow these step-by-step instructions to run **AMR Sentinel AI** on your local development machine.
+
+### Prerequisites
+- **Node.js**: `v18.0.0` or higher
+- **npm**: `v9.0.0` or higher
+- **Gemini API Key**: Obtainable from [Google AI Studio](https://aistudio.google.com/)
+
+### Step-by-Step Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/amr-sentinel-ai.git
+   cd amr-sentinel-ai
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Configure Environment Variables**
+   Create a `.env` file in the project root:
+   ```env
+   GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+
+4. **Start Development Server**
+   ```bash
+   npm run dev
+   ```
+   Open your browser at `http://localhost:3000` to interact with the platform.
+
+5. **Build for Production**
+   ```bash
+   npm run build
+   npm run start
+   ```
+
+---
+## 🎓 10. Project Impact
 Educational Value: Connects abstract genetic code and biochemical pathways to observable clinical drug resistance.
 Scientific Rigor: Grounded in recognized international diagnostic standards (CLSI, EUCAST, WHO priority pathogen lists).
 Biotechnology Readiness: Prepares students for modern bio-data science and AI-assisted medical research workflows.
-## 📄 10. Conclusion
+## 📄 11. Conclusion
 AMR Sentinel AI demonstrates how artificial intelligence can be responsibly integrated into undergraduate science education. By combining high-speed AI reasoning with rigorous scientific standards and interactive visual modeling, the platform serves as a powerful bridge between textbook microbiology and the global fight against antimicrobial resistance.
 
 Developed for Undergraduate Microbiology & Biotechnology Education | Powered by Google Gemini 3.6 Flash
