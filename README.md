@@ -2,13 +2,13 @@
 Next-Generation Genomic Antimicrobial Resistance Surveillance & Educational Intelligence Platform
 License: MIT AI Engine Domain Target Grade
 
-📌 1. Project Title & Introduction
+ 1. Project Title & Introduction
 AMR Sentinel AI is an advanced, interactive biotechnology research and educational intelligence platform designed to bridge classical undergraduate microbiology laboratory coursework with cutting-edge AI-driven genomic surveillance and antimicrobial resistance (AMR) modeling.
 
 Core Mission
 Antimicrobial resistance poses one of the top ten global public health threats facing humanity. AMR Sentinel AI empowers undergraduate microbiology students, clinical laboratory science (MLS) trainees, and biosecurity learners by combining high-speed AI reasoning (Gemini 3.6 Flash) with standardized clinical guidelines (CLSI M100 & EUCAST breakpoints) and interactive One Health transmission simulations.
 
-⚠️ 2. Real-World Problem & Solution
+2. Real-World Problem & Solution
 The Microbiology Challenge
 The Silent Pandemic: Bacterial pathogens are evolving resistance to front-line and reserve antibiotics (such as carbapenems, vancomycin, and colistin) faster than new therapeutics are developed, causing an estimated 1.27 million direct deaths globally each year.
 Educational Gap in Undergraduate Curricula: Traditional microbiology education often isolates concepts into separate units—biochemical laboratory identification, genomic resistance cassette mechanisms (mecA, blaNDM-1, vanA), and antimicrobial susceptibility testing (AST) interpretation. Students frequently struggle to synthesize how molecular gene expression directly manifests as clinical treatment failure.
@@ -20,7 +20,7 @@ Analyze Resistance Genotypes & Phenotypes: Instantly query bacterial strain quer
 Simulate One Health Transmission: Interactively model how agricultural antibiotic overuse and wastewater effluent drive clinical resistance spread.
 Master ESKAPE Pathogens: Explore high-definition biological profiles of critical superbugs (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp.).
 Assess Knowledge via Interactive Quizzes: Test understanding with curriculum-aligned 5-question assessments featuring instant score calculation and detailed feedback.
-🚀 3. Live Application
+ 3. Live Application
 Experience the live interactive platform in your browser:
 
 🌐 Launch AMR Sentinel AI on Vercel
@@ -30,11 +30,17 @@ Experience the live interactive platform in your browser:
 🔬 4. Key Features
 Feature	Description	Educational Value
 🤖 AI Resistance Analyzer	Powered by Gemini 3.6 Flash, processes user queries regarding gene cassettes, enzyme kinetics, and AST panel interpretations with structured scientific outputs.	Teaches students how to interpret molecular resistance profiles and mechanistically connect genotypes to phenotypes.
+
 🌐 One Health Risk Simulator	Interactive slider-based simulation modeling antibiotic pressure across Clinical, Agricultural, and Environmental sectors.	Demonstrates the interdisciplinary nature of AMR and how non-clinical antibiotic usage accelerates human treatment failures.
+
 🧫 ESKAPE Pathogen Explorer	Interactive digital cards for high-priority WHO/CDC antibiotic-resistant bacterial species.	Provides quick access to gram status, mechanism details, resistance genes, and reserve drug options.
+
 🗺️ Global AMR Surveillance Map	Simulated real-time epidemiological map highlighting high-consequence resistance strains (blaKPC-2, mcr-1, vanA) across global regions.	Connects classroom microbiology to global epidemiological surveillance networks.
+
 📚 Learning Center & Assessment	Structured educational modules with an interactive 5-question multiple-choice student quiz featuring instant scoring and feedback.	Reinforces key concepts (mecA, ESBLs, AST breakpoints, and stewardship de-escalation).
+
 🎓 AI Microbiology Tutor	Interactive AI Q&A console configured to answer undergraduate microbiology questions with scientific rigor and step-by-step explanations.	Serves as an 24/7 academic teaching assistant for microbiology lab and lecture preparation.
+
 💬 Student Feedback Portal	Dedicated modal interface allowing students and educators to submit curriculum requests, bug reports, or academic questions.	Enables continuous improvement of the educational platform.
 🤖 5. AI Integration
 AMR Sentinel AI leverages Gemini 3.6 Flash via the official @google/genai TypeScript SDK in a secure server-side architecture (/api/* endpoints).
