@@ -2,7 +2,7 @@
 Next-Generation Genomic Antimicrobial Resistance Surveillance & Educational Intelligence Platform
 License: MIT AI Engine Domain Target Grade
 
- 1. Project Title & Introduction
+📌 1. Project Title & Introduction
 AMR Sentinel AI is an advanced, interactive biotechnology research and educational intelligence platform designed to bridge classical undergraduate microbiology laboratory coursework with cutting-edge AI-driven genomic surveillance and antimicrobial resistance (AMR) modeling.
 
 Core Mission
@@ -116,54 +116,32 @@ Deployment	Vercel Platform & Cloud Run Container	Edge deployment with automatic 
 The application features 7 distinct interactive tabs and 2 modal interfaces tailored specifically for undergraduate microbiology education and AI research workflows:
 
 1. Main Dashboard (Dashboard)
-Key Components: Executive telemetry status banner, real-time threat alert cards, quick navigation shortcuts, and WHO priority pathogen surveillance highlights.
 <img width="1892" height="900" alt="Screenshot 2026-07-26 194215" src="https://github.com/user-attachments/assets/037755d1-4efc-4277-b76e-577d9048fd6e" />
-Description: Serves as the central command hub providing high-level metrics and instant access to all core platform features.
 2. AI Resistance Analyzer (AI Analyzer)
-Key Components: Natural language & gene input console, preset clinical case buttons (mecA, blaNDM-1, vanA, AcrAB-TolC), step-by-step genomic sequencing loading animation, and structured AI response output with CLSI/EUCAST references.
 <img width="1900" height="904" alt="Screenshot 2026-07-26 194227" src="https://github.com/user-attachments/assets/7931d4b0-c7b1-4ead-8772-21a18dc2baf2" />
-Description: Allows students to input genomic markers or AST data to receive instant, structured scientific decompositions of resistance mechanisms.
 3. One Health Risk Simulator (Risk Simulator)
-Key Components: Interactive range sliders for Clinical Antibiotic Usage, Agricultural & Livestock Prescriptions, and Environmental & Wastewater Effluent, accompanied by live transmission risk gauges and interdisciplinary impact charts.
 <img width="1895" height="900" alt="Screenshot 2026-07-26 194241" src="https://github.com/user-attachments/assets/8c2a52d9-6bdf-46d0-a7b4-9664e97403b7" />
-| ⚠️ Primary Contributor: Agricultural colistin plasmid-mediated mcr-1 dissemination |
-Description: Demonstrates how non-human antibiotic selective pressures drive human treatment failures across ecosystems.
 4. ESKAPE Pathogen Explorer (Pathogen Cards)
-Key Components: Filterable digital organism profiles for WHO high-priority superbugs (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter spp.).
 <img width="1904" height="907" alt="Screenshot 2026-07-26 194259" src="https://github.com/user-attachments/assets/3cbc2b92-8f83-4170-813f-4e07078358be" />
-Description: Provides comprehensive quick-reference flashcards for clinical microbiology lab preparation.
-5. Global Bio-Surveillance Map (Bio-Surveillance)
-Key Components: Interactive world map displaying high-risk epidemic resistance strains (blaNDM-1 New Delhi Metallo-β-lactamase, mcr-1 Colistin plasmid, vanA Vancomycin cassette) mapped across global geographic hotspots.
+  5. Global Bio-Surveillance Map (Bio-Surveillance)
 <img width="1904" height="907" alt="Screenshot 2026-07-26 194335" src="https://github.com/user-attachments/assets/c5f9ac0e-6d5a-4688-ab09-0ec374f43677" />
-Description: Bridges molecular genetics with real-world global epidemiology and biosecurity surveillance.
 6. Student Learning Center & Quiz (Learning Center)
-Key Components: Structured educational modules (AST interpretation, Beta-lactamase classes, Gene Cassettes, Stewardship) and an interactive 5-question multiple choice assessment with score calculation and feedback.
 <img width="1902" height="911" alt="Screenshot 2026-07-26 194406" src="https://github.com/user-attachments/assets/93ab6e17-a6d7-407b-bf87-740fba386670" />
-Description: Evaluates student comprehension of key AMR concepts with immediate grading and detailed scientific rationale.
 7. AI Microbiology Tutor (AI Tutor)
-Key Components: 24/7 interactive Q&A assistant pre-programmed with undergraduate microbiology prompts, quick-question chips, and scientific explanations.
 <img width="1902" height="914" alt="Screenshot 2026-07-26 194424" src="https://github.com/user-attachments/assets/53343edf-c291-4d05-94bf-34a80853571d" />
-Description: Acts as an instant, accessible teaching assistant for lecture and laboratory coursework.
 8. Platform Information & Student Feedback Modal (About & Feedback)
 Key Components: Platform background information, project credits, methodology overview, and direct student feedback form to submit questions or suggestions to instructors.
 <img width="1012" height="870" alt="Screenshot 2026-07-26 194442" src="https://github.com/user-attachments/assets/66de93bb-8bfd-416d-9e0f-d2d16491af67" />
-
-Description: Provides an open channel for students and educators to collaborate and continuously refine the learning experience.
+9. How the Application Works
 <img width="1091" height="873" alt="Screenshot 2026-07-26 194501" src="https://github.com/user-attachments/assets/70cc4fc6-d5e1-4dd9-8c35-eec17fa8579b" />
-
-💻 10. Installation & Running Locally
+10. Installation & Running Locally
 <img width="1015" height="865" alt="Screenshot 2026-07-26 194520" src="https://github.com/user-attachments/assets/7cc1ab57-0e47-4ce7-804c-132c33c4c5ac" />
 
-🔮 11. Future Improvements
-[ ] FASTA File Genomic Parser: Allow students to upload raw bacterial FASTA/FASTQ sequence files to identify resistance genes using BLAST integration.
-[ ] 3D Protein Structure Viewer: Integrate NGL Viewer or Mol* to visualize 3D antibiotic-target interactions (e.g., Vancomycin bound to D-Ala-D-Ala vs D-Ala-D-Lac).
-[ ] Instructor Analytics Dashboard: Provide professors with class-wide performance metrics on the Learning Center quizzes.
-[ ] CLSI M100 2026 & EUCAST v14.0 Automated Rules Engine: Expanded local database for offline AST breakpoint lookup.
-🎓 12. Project Impact
+🎓 11. Project Impact
 Educational Value: Connects abstract genetic code and biochemical pathways to observable clinical drug resistance.
 Scientific Rigor: Grounded in recognized international diagnostic standards (CLSI, EUCAST, WHO priority pathogen lists).
 Biotechnology Readiness: Prepares students for modern bio-data science and AI-assisted medical research workflows.
-📄 13. Conclusion
+📄 12. Conclusion
 AMR Sentinel AI demonstrates how artificial intelligence can be responsibly integrated into undergraduate science education. By combining high-speed AI reasoning with rigorous scientific standards and interactive visual modeling, the platform serves as a powerful bridge between textbook microbiology and the global fight against antimicrobial resistance.
 
 Developed for Undergraduate Microbiology & Biotechnology Education | Powered by Google Gemini 3.6 Flash
