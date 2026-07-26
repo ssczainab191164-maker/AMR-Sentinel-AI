@@ -1,0 +1,6 @@
+{
+  "name": "AMR Sentinel AI",
+  "description": "AI-powered educational web application for microbiology students and healthcare learners to explore antimicrobial resistance mechanisms, pathogen profiles, risk simulations, and stewardship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
