@@ -134,7 +134,6 @@ The application features 7 distinct interactive tabs and 2 modal interfaces tail
 7. AI Microbiology Tutor (AI Tutor)
 <img width="1902" height="914" alt="Screenshot 2026-07-26 194424" src="https://github.com/user-attachments/assets/53343edf-c291-4d05-94bf-34a80853571d" />
 8. Platform Information & Student Feedback Modal (About & Feedback)
-Key Components: Platform background information, project credits, methodology overview, and direct student feedback form to submit questions or suggestions to instructors.
 <img width="1012" height="870" alt="Screenshot 2026-07-26 194442" src="https://github.com/user-attachments/assets/66de93bb-8bfd-416d-9e0f-d2d16491af67" />
 9. How the Application Works
 <img width="1091" height="873" alt="Screenshot 2026-07-26 194501" src="https://github.com/user-attachments/assets/70cc4fc6-d5e1-4dd9-8c35-eec17fa8579b" />
