@@ -136,15 +136,16 @@ The application features 7 distinct interactive tabs and 2 modal interfaces tail
 8. Platform Information & Student Feedback Modal (About & Feedback)
 <img width="1012" height="870" alt="Screenshot 2026-07-26 194442" src="https://github.com/user-attachments/assets/66de93bb-8bfd-416d-9e0f-d2d16491af67" />
 ## ABOUT
+
 <img width="1091" height="873" alt="Screenshot 2026-07-26 194501" src="https://github.com/user-attachments/assets/70cc4fc6-d5e1-4dd9-8c35-eec17fa8579b" />
-10. Installation & Running Locally
+## FEEDBACK
 <img width="1015" height="865" alt="Screenshot 2026-07-26 194520" src="https://github.com/user-attachments/assets/7cc1ab57-0e47-4ce7-804c-132c33c4c5ac" />
 
-## 🎓 11. Project Impact
+## 🎓 09. Project Impact
 Educational Value: Connects abstract genetic code and biochemical pathways to observable clinical drug resistance.
 Scientific Rigor: Grounded in recognized international diagnostic standards (CLSI, EUCAST, WHO priority pathogen lists).
 Biotechnology Readiness: Prepares students for modern bio-data science and AI-assisted medical research workflows.
-## 📄 12. Conclusion
+## 📄 10. Conclusion
 AMR Sentinel AI demonstrates how artificial intelligence can be responsibly integrated into undergraduate science education. By combining high-speed AI reasoning with rigorous scientific standards and interactive visual modeling, the platform serves as a powerful bridge between textbook microbiology and the global fight against antimicrobial resistance.
 
 Developed for Undergraduate Microbiology & Biotechnology Education | Powered by Google Gemini 3.6 Flash
