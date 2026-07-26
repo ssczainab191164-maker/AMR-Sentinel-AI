@@ -27,9 +27,9 @@ Assess Knowledge via Interactive Quizzes: Test understanding with curriculum-ali
  ## 🚀 3. Live Application
 Experience the live interactive platform in your browser:
 
-🌐 Launch AMR Sentinel AI on Vercel
+🌐 Launch AMR Sentinel AI on Vercel https://amr-sentinel-ai-74po.vercel.app/
 
-⚡ AI Studio Preview Deployment
+⚡ AI Studio Preview Deployment https://ais-pre-26zwkqzoq2f62robhr4wj5-481517862563.asia-southeast1.run.app
 
 ## 🔬 4. Key Features
 Feature	Description	Educational Value
