@@ -135,7 +135,7 @@ The application features 7 distinct interactive tabs and 2 modal interfaces tail
 <img width="1902" height="914" alt="Screenshot 2026-07-26 194424" src="https://github.com/user-attachments/assets/53343edf-c291-4d05-94bf-34a80853571d" />
 8. Platform Information & Student Feedback Modal (About & Feedback)
 <img width="1012" height="870" alt="Screenshot 2026-07-26 194442" src="https://github.com/user-attachments/assets/66de93bb-8bfd-416d-9e0f-d2d16491af67" />
-9. How the Application Works
+## ABOUT
 <img width="1091" height="873" alt="Screenshot 2026-07-26 194501" src="https://github.com/user-attachments/assets/70cc4fc6-d5e1-4dd9-8c35-eec17fa8579b" />
 10. Installation & Running Locally
 <img width="1015" height="865" alt="Screenshot 2026-07-26 194520" src="https://github.com/user-attachments/assets/7cc1ab57-0e47-4ce7-804c-132c33c4c5ac" />
