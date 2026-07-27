@@ -139,7 +139,7 @@ The application features 7 distinct interactive tabs and 2 modal interfaces tail
 ## FEEDBACK
 <img width="1015" height="865" alt="Screenshot 2026-07-26 194520" src="https://github.com/user-attachments/assets/7cc1ab57-0e47-4ce7-804c-132c33c4c5ac" />
 
-## 💻 09. Installation & Running Locally
+## 💻 9. Installation & Running Locally
 
 Follow these step-by-step instructions to run **AMR Sentinel AI** on your local development machine.
 
